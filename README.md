@@ -42,6 +42,15 @@ Jumper JP7 can be connected either with a piece of wire or with a 0 Ohm smd resi
 If you activate 12V, it can easily lead to the power connector being inserted backwards and subsequently destroying the drive or Gotek.
 
 
+Components:
+6x  3 pin 2.54mm (jumper) JP1 to JP6    
+2x  IC  74LS38 DIP14  U1,U4 
+2x  IC  74LS74 Dip14  U2,U3
+6x  resistor 0,25W 2k2 Ohm  R1 to R6
+2x  ceramic capacitor  100nf  104    C1,C2
+3x  4 pin 2.54mm KF2510-A (Male header) power FDD   J1,J2,J3
+1x  DB23 male (d-sub 23)  J4 
+
 
 
 ![20251018_103336](https://github.com/user-attachments/assets/930e9d4d-9dd0-410f-8968-f6ca6372ad63)
