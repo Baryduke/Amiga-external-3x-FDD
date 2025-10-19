@@ -48,4 +48,4 @@ If you activate 12V, it can easily lead to the power connector being inserted ba
 
 
 
-More information about the project and the PCB
+More information about the project and the PCB   https://www.pcbway.com/project/shareproject/Amiga_External_3x_FDD_16dd8842.html 
